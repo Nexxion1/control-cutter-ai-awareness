@@ -85,3 +85,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+/* Logo styling */
+.logo {
+    width: 120px;
+    margin-bottom: 20px;
+}
